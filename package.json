@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node -r esm src",
-    "dev": "nodemon src/index.js"
+    "start": "node -r esm .",
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",

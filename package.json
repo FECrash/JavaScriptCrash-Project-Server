@@ -20,6 +20,7 @@
   "homepage": "https://github.com/FECrash/JavaScriptCrash-Project-Server#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
+    "child_process": "^1.0.2",
     "dotenv": "^10.0.0",
     "esm": "^3.2.25",
     "joi": "^17.4.2",
@@ -27,6 +28,7 @@
     "koa": "^2.13.4",
     "koa-bodyparser": "^4.3.0",
     "koa-router": "^10.1.1",
+    "koa2-swagger-ui": "^5.3.0",
     "mongoose": "^6.0.12"
   },
   "devDependencies": {
